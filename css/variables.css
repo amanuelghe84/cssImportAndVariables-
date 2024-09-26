@@ -1,0 +1,20 @@
+:root{
+    /* Light theme */
+    /* color */
+    --main-gb-color-light: #29a6fa;
+    --main-text-color-light: #c51f1f;
+    --padding-size-light: 5px;
+    --header-background-color-light: #0c3259;
+    --header-text-color-light:#f3e8e8;
+    --header-text-hover-color-light:#6c6c78;
+    --header-background-hover-color-light:#fff;
+    /* dark theme */
+    --main-bg-color-dark: #e5e5ec;
+    --main-text-color-dark: #ad5656;
+    --padding-size-dark: 5px;
+    --header-background-color-dark: #2c3e50;
+    --header-text-color-dark:#1c7748;
+    --header-text-hover-color-dark:#3498db;
+    --header-background-hover-color-dark:#fff;
+
+}

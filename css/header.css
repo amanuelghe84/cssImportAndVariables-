@@ -1,0 +1,27 @@
+@import url('variables.css');
+
+header{
+    background-color:var(--header-background-color-light);
+    color: var(--header-background-color-light);
+    width: 100%;
+}
+header nav ul{
+    list-style-type: none;
+    padding: 15px;
+}
+header nav ul li{
+    display: inline;
+    margin-top: 20px;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: var(--header-text-color-light);
+    padding: 20px;
+    margin: auto 10px;
+}
+
+header nav ul li a:hover, .active{
+    color: var(--header-text-hover-color-light);
+    background-color: var(--header-text-hover-color-light);
+    
+}
