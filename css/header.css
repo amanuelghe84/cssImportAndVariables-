@@ -8,6 +8,7 @@ header{
 header nav ul{
     list-style-type: none;
     padding: 15px;
+    border: 1px solid  var(--header-box-border-color-light);
 }
 header nav ul li{
     display: inline;
@@ -22,6 +23,7 @@ header nav ul li a{
 
 header nav ul li a:hover, .active{
     color: var(--header-text-hover-color-light);
-    background-color: var(--header-text-hover-color-light);
+    background-color: var(--header-background-hover-color-light);
+    border: 1px solid var(--header-box-border-color-light);
     
 }

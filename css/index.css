@@ -1,6 +1,6 @@
 @import url('variables.css');
 @import url('header.css');
-
+@import url('body.css');
 header{
     /* background-color: var(--header-background-color-dark); */
 }
